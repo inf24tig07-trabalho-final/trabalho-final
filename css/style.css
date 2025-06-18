@@ -99,3 +99,126 @@ header {
   border-left: 5px solid #f5c518;
   padding-left: 12px;
 }
+
+.texto p {
+  font-size: 17px;
+  color: #444;
+  line-height: 1.8;
+  margin-bottom: 12px;
+}
+
+.imagem-estudo img {
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(34,51,77,0.09);
+  margin: 18px 0;
+  max-width: 100%;
+  height: auto;
+}
+
+.imagem-estudo figcaption {
+  text-align: center;
+  font-size: 13px;
+  color: #777;
+  margin-top: 6px;
+  font-style: italic;
+}
+
+.lista-metodos {
+  margin-left: 40px;
+  padding: 20px;
+  background-color: #fff7e6;
+  border-left: 4px solid #f5c518;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #2c3e50;
+  list-style-type: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.03);
+}
+
+.lista-metodos li {
+  margin-bottom: 10px;
+  padding-left: 5px;
+}
+
+.lista-passos {
+  margin-left: 40px;
+  padding: 20px;
+  background-color: #e8fdf5;
+  border-left: 4px solid #58d68d;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #2e4053;
+  list-style-position: inside;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.03);
+}
+
+.lista-passos li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+footer {
+  background: #eaf6ff;
+  color: #22334d;
+  text-align: center;
+  padding: 18px 0 12px 0;
+  border-top: 3px solid #f5c518;
+  margin-top: 40px;
+  font-size: 1rem;
+}
+
+.tabela-metodos {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(34,51,77,0.07);
+  margin: 32px auto;
+  width: 95%;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 40px 0;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 15px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  background-color: #fffef9;
+  border-radius: 8px;
+  overflow: hidden;
+  min-height: 500px;
+}
+
+thead th {
+  background-color: #f5c518;
+  color: #2c2c2c;
+  text-align: center;
+  padding: 12px;
+  font-size: 18px;
+  border-bottom: 2px solid #ddd;
+  border-right: 1px solid #e0e0e0;
+}
+
+thead tr:first-child th {
+  font-size: 22px;
+  background-color: #fff5cc;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+tbody td {
+  padding: 14px;
+  border-bottom: 1px solid #eee;
+  vertical-align: top;
+  border-right: 1px solid #f0f0f0;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fcfcfc;
+}
+
+tbody td:first-child {
+  background-color: #fffbe6;
+  font-weight: bold;
+}
