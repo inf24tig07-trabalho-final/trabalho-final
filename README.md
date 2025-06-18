@@ -78,4 +78,4 @@ Este wireframe descreve a estrutura da página de contacto. Está centrado num f
 
 Este wireframe corresponde à página onde são apresentadas curiosidades e factos interessantes relacionados com o mundo do ensino. Esta página visa despertar o interesse dos utilizadores com conteúdos informativos e inspiradores. O design prevê uma apresentação em formato de cartões ou secções destacadas, com imagens e texto, garantindo uma leitura leve e envolvente.
 
-![Wireframe Curiosidades sobre o Ensino](imagensrelatorio/Ensino.html.png)
+![Wireframe Curiosidades sobre o Ensino](imagensrelatorio/Ensino.png)
