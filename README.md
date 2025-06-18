@@ -36,5 +36,46 @@ O projeto respeitou os princípios da web estática, sem recurso a servidores ou
 ### Sitemap
 
 > O site apresenta uma estrutura simples, com um menu de navegação presente em todas as páginas, facilitando o acesso aos conteúdos.
+![SiteMap da página](imagensrelatorio/sitemap.png)
 
-### Wireframes
+---
+
+## Wireframes
+
+### Wireframe da Página Inicial
+
+Este wireframe representa a estrutura da página inicial do website. O objetivo é apresentar o tema principal do projeto (“Ensino”) de forma clara e apelativa, orientando o utilizador para os restantes conteúdos através de um menu de navegação e destaques visuais. Inclui um cabeçalho com logótipo, secção introdutória e ligações rápidas para as restantes páginas.
+
+![Wireframe Página Inicial](imagensrelatorio/wireframe-index.png)
+
+---
+
+### Wireframe da Página “Métodos de Ensino”
+
+Este wireframe define a disposição da informação relativa às várias técnicas de ensino. O layout foi organizado em três colunas para facilitar a leitura comparativa e a exploração de diferentes métodos. Cada coluna inclui imagem, título e breve descrição da técnica, com foco na clareza visual e responsividade.
+
+![Wireframe Métodos de Ensino](imagensrelatorio/wireframe-metodos.png)
+
+---
+
+### Wireframe da Página “Recursos Educativos”
+
+Este wireframe ilustra a estrutura da página dedicada à apresentação de recursos úteis para o estudo. O objetivo principal é fornecer ao utilizador uma lista organizada de ferramentas, plataformas, materiais digitais ou físicos que apoiem o processo de aprendizagem. O layout foi desenhado com blocos bem definidos, com títulos, ícones e descrições curtas para facilitar a navegação e a seleção dos recursos.
+
+![Wireframe Recursos Educativos](imagensrelatorio/wireframe-recursos.png)
+
+---
+
+### Wireframe da Página de Contacto
+
+Este wireframe descreve a estrutura da página de contacto. Está centrado num formulário simples e funcional, com campos para nome, email, seleção de métodos e uma área de mensagem. O design foca-se na acessibilidade e na validação dos campos de forma intuitiva. Inclui também informações de contacto adicionais.
+
+![Wireframe Página de Contacto](imagensrelatorio/wireframe-contacto.png)
+
+---
+
+### Wireframe da Página “Curiosidades sobre o Ensino”
+
+Este wireframe corresponde à página onde são apresentadas curiosidades e factos interessantes relacionados com o mundo do ensino. Esta página visa despertar o interesse dos utilizadores com conteúdos informativos e inspiradores. O design prevê uma apresentação em formato de cartões ou secções destacadas, com imagens e texto, garantindo uma leitura leve e envolvente.
+
+![Wireframe Curiosidades sobre o Ensino](imagensrelatorio/wireframe-ensino.png)
