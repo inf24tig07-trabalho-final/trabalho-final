@@ -39,3 +39,46 @@
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
+
+                      <xs:element name="TecnicasAdicionais">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Tecnica" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="nome" type="xs:string" use="required"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="RecursosUteis">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Recurso" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="nome" type="xs:string" use="required"/>
+                                            <xs:attribute name="url" type="xs:anyURI" use="required"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
+
+                       
+
+
