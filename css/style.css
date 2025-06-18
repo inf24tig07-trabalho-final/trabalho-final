@@ -222,3 +222,92 @@ tbody td:first-child {
   background-color: #fffbe6;
   font-weight: bold;
 }
+
+
+ul {
+  padding-left: 20px;
+  margin: 0;
+  list-style-type: none;
+}
+
+ul li {
+  margin-bottom: 120px;
+  display: flex;
+  align-items: center;
+}
+
+ul li img {
+  width: 20px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+ul li::before {
+  content: "📘";
+  margin-right: 8px;
+}
+
+
+.comparacao-titulo {
+  background-color: #fff5cc;
+  padding: 15px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: #3a3a3a;
+  border-radius: 8px 8px 0 0;
+  margin-top: 40px;
+}
+
+
+
+.recursos-externos, .video-dicas, .tecnicas-definicoes {
+  background-color: #fffef9;
+  border-left: 4px solid #f5c518;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.04);
+}
+
+.recursos-externos h2,
+.video-dicas h2,
+.tecnicas-definicoes h2 {
+  font-size: 22px;
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.lista-links li {
+  font-size: 16px;
+  line-height: 1.8;
+  margin-bottom: 10px;
+}
+
+.lista-links a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.lista-links a:hover {
+  text-decoration: underline;
+  color: #f5c518;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.lista-definicoes dt {
+  font-weight: bold;
+  color: #34495e;
+  margin-top: 15px;
+}
+
+.lista-definicoes dd {
+  margin-left: 20px;
+  color: #555;
+  margin-bottom: 10px;
+}
