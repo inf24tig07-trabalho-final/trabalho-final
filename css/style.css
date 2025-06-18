@@ -311,3 +311,190 @@ ul li::before {
   color: #555;
   margin-bottom: 10px;
 }
+
+form {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(34,51,77,0.07);
+    padding: 32px 28px;
+    max-width: 540px;
+    margin: 32px auto;
+}
+
+form h2 {
+    font-size: 22px;
+    color: #2c3e50;
+    border-left: 5px solid #f5c518;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+.input-educativo, .textarea-educativo {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 18px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    font-size: 1rem;
+}
+.checkbox-group {
+    margin-bottom: 18px;
+}
+
+form label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+    font-size: 15px;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+.metodos label {
+    font-weight: normal;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+#contador {
+    font-size: 14px;
+    color: #666;
+    text-align: right;
+    margin-top: 5px;
+}
+
+form button {
+  background: #f5c518;
+  color: #22334d;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 22px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(34,51,77,0.08);
+  transition: background 0.2s, transform 0.2s;
+}
+
+form button:hover {
+    background-color: #e1b900;
+}
+
+
+section.mensagem h2, section.metodos h2 {
+    font-size: 18px;
+    color: #2c3e50;
+}
+
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.introducao,
+.lista-metodos,
+.lista-passos,
+footer,
+.recursos-externos,
+.video-dicas,
+.tecnicas-definicoes,
+form {
+    animation: fadeIn 0.8s ease-in;
+}
+
+
+form button,
+.download-xml button {
+    transition: transform 0.2s ease, background-color 0.3s ease;
+}
+
+form button:hover,
+.download-xml button:hover {
+    transform: scale(1.05);
+}
+
+
+.imagem-estudo img {
+    transition: transform 0.3s ease;
+}
+
+.imagem-estudo img:hover {
+    transform: scale(1.05);
+}
+
+.sidebar {
+    transition: width 0.4s ease, background-color 0.3s ease;
+}
+
+
+.dica-card, .metodo-card {
+  background: #fff;
+  border-left: 6px solid #f5c518;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(34,51,77,0.07);
+  margin: 24px 0;
+  padding: 22px 28px;
+  font-size: 1.08rem;
+  position: relative;
+}
+
+.metodo-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.metodo-icone {
+    font-size: 30px;
+    color: #3498db;
+    flex-shrink: 0;
+}
+
+.metodo-info h3 {
+    margin: 0;
+    color: #2c3e50;
+    font-size: 22px;
+}
+
+.metodo-info p {
+    margin: 4px 0;
+    line-height: 1.5;
+    font-size: 15px;
+}
+.dica-card::before, .metodo-card::before {
+  content: "📚";
+  font-size: 1.5rem;
+  position: absolute;
+  left: 14px;
+  top: 18px;
+}
+
+#lista-metodos {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px;
+    list-style: none;
+}
+
+
+.conteudo-curiosidades {
+  margin-left: 220px;
+  padding: 40px 60px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  animation: fadeIn 0.8s ease-in;
+}
