@@ -1,1 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
 
+    <xs:element name="MetodosEstudo">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Introducao">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Importancia" type="xs:string"/>
+                            <xs:element name="Objetivo" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="MetodosPrincipais">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Metodo" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Descricao" type="xs:string"/>
+                                        <xs:element name="Vantagens" type="xs:string"/>
+                                        <xs:element name="Desvantagens" type="xs:string"/>
+                                        <xs:element name="IdealPara" type="xs:string"/>
+                                    </xs:sequence>
+                                    <xs:attribute name="nome" type="xs:string" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="PassosEstudoEficaz">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Passo" type="xs:string" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
