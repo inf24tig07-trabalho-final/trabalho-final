@@ -1,1 +1,81 @@
-
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ferramentas, vídeos e técnicas para potenciar o teu estudo.">
+    <meta name="keywords" content="recursos, estudo, apps, vídeos, técnicas, educação">
+    <meta name="author" content="inf24tig07">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <title>Recursos de Estudo</title>
+</head>
+<body>
+    <!-- Header educativo -->
+    <header>
+        <div class="conteudo-header">
+            <img src="../images/logotipo.png" alt="Logótipo do site - livro aberto com luz">
+            <div class="texto-header">
+                <h1>Recursos de Estudo</h1>
+                <p class="subtitulo">Ferramentas e dicas para potenciar o teu sucesso académico</p>
+            </div>
+        </div>
+    </header>
+    <!-- Sidebar de navegação -->
+    <nav class="sidebar">
+        <a href="../index.html">Página principal</a>
+        <a href="../html/metodos.html">Métodos de Estudo</a>
+        <a href="../html/recursos.html">Recursos de Estudo</a>
+        <a href="../html/contacto.html">Contactos</a>
+        <a href="../html/Curiosidadesensino.html">Ensino</a>
+    </nav>
+    <main>
+        <!-- Dica educativa -->
+        <div class="dica-card">
+            💡 <strong>Dica:</strong> Usa aplicações como <span class="tooltip">Anki<span class="tooltip-text">App gratuita para criar flashcards e aplicar revisão espaçada.</span></span> ou <span class="tooltip">Quizlet<span class="tooltip-text">Plataforma online para criar e partilhar flashcards.</span></span> para melhorar a tua memorização!
+        </div>
+        <!-- Recursos externos -->
+        <section class="recursos-externos">
+            <h2>🌐 Recursos e Aplicações Úteis</h2>
+            <ul class="lista-links">
+                <li><a href="https://apps.ankiweb.net/" target="_blank">Anki (Flashcards)</a></li>
+                <li><a href="https://quizlet.com/pt-br" target="_blank">Quizlet</a></li>
+                <li><a href="https://www.coggle.it/" target="_blank">Coggle (Mapas Mentais)</a></li>
+                <li><a href="https://www.todamateria.com.br/tecnicas-de-estudo/" target="_blank">Toda Matéria - Técnicas de Estudo</a></li>
+            </ul>
+        </section>
+        <!-- Vídeo educativo -->
+        <section class="video-dicas">
+            <h2>🎥 Dicas de Estudo</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IlU-zDU6aQ0" title="Dicas de Estudo"  allowfullscreen></iframe>
+        </section>
+        <!-- Técnicas e definições -->
+        <section class="tecnicas-definicoes">
+            <h2>📖 Técnicas e Definições</h2>
+            <dl class="lista-definicoes">
+                <dt><b>Revisão Espaçada</b></dt>
+                <dd>Técnica que consiste em rever a matéria várias vezes ao longo do tempo, em vez de estudar tudo de uma vez. <a href="https://exame.com/carreira/guia-de-carreira/como-usar-a-tecnica-de-revisao-espacada-para-reter-melhor-o-conteudo-estudado/" target="_blank">Como aplicar</a></dd>
+                <dt><b>Estudo Ativo</b></dt>
+                <dd>Envolve fazer perguntas, resumir, explicar e aplicar o conteúdo, em vez de apenas ler ou sublinhar.</dd>
+                <dt><b>Mapas Mentais</b></dt>
+                <dd>Diagramas que ajudam a organizar ideias e visualizar relações entre conceitos.</dd>
+            </dl>
+        </section>
+        <!-- Métodos carregados do XML -->
+        <section class="metodos-xml">
+            <h2>📋 Métodos carregados do ficheiro XML</h2>
+            <ul id="lista-metodos"></ul>
+        </section>
+    </main>
+    <!-- Botão de voltar ao topo -->
+    <button id="topo-btn" title="Voltar ao topo">↑</button>
+        <script src="../js/trabalho.js"></script>
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Métodos de Estudo Eficazes | Desenvolvido pelo grupo inf24tig07</p>
+        <p>Este site foi criado no âmbito do módulo INF-TI como parte de um trabalho prático.</p>
+    </footer>
+    <script>
+        carregarMetodosXML();   
+    </script>
+</body>
+</html>
