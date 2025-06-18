@@ -57,3 +57,27 @@
                     <label for="metodo4">Autoexplicação</label><br>
                 </div>
             </section>
+
+            <section class="mensagem">
+                <h2>Deixa a tua mensagem <span style="font-size:0.9em;">(máx. 200 palavras)</span></h2>
+                <textarea id="mensagem" rows="8" cols="60" placeholder="Escreve aqui a tua mensagem..." class="textarea-educativo"></textarea>
+                <p id="contador">0 / 200 palavras</p>
+            </section>
+
+            <div class="botoes-form">
+                <button type="button" onclick="verificarFormulario()">Enviar</button>
+                <a href="../xml/MetodosEstudo.xml" download class="download-btn">Descarregar ficheiro xml</a>
+            </div>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Métodos de Estudo Eficazes | Desenvolvido pelo grupo inf24tig07</p>
+        <p>Este site foi criado no âmbito do módulo INF-TI como parte de um trabalho prático.</p>
+    </footer>
+    <script src="../js/trabalho.js"></script>
+    <script>
+        contarpalavras();
+    </script>
+</body>
+</html>
