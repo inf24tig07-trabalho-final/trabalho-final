@@ -118,7 +118,7 @@ O site apresenta diversas técnicas de estudo com explicações visuais, imagens
 
 ### Link para o Site
 
-
+🔗 [Acede aqui ao site publicado no Netlify](https://elegant-pixie-eabc57.netlify.app)
 
 ### Instruções de Instalação
 
