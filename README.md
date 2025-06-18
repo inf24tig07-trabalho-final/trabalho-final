@@ -79,3 +79,122 @@ Este wireframe descreve a estrutura da página de contacto. Está centrado num f
 Este wireframe corresponde à página onde são apresentadas curiosidades e factos interessantes relacionados com o mundo do ensino. Esta página visa despertar o interesse dos utilizadores com conteúdos informativos e inspiradores. O design prevê uma apresentação em formato de cartões ou secções destacadas, com imagens e texto, garantindo uma leitura leve e envolvente.
 
 ![Wireframe Curiosidades sobre o Ensino](imagensrelatorio/Ensino.png)
+
+---
+
+
+## 3. Product – Produto
+
+### Descrição do Produto
+
+O site apresenta diversas técnicas de estudo com explicações visuais, imagens ilustrativas e uma navegação simples. O conteúdo foi escrito de forma direta e objetiva, com base em fontes confiáveis.
+
+### Link para o Site
+
+
+
+### Instruções de Instalação
+
+#### Instalação Local
+
+1. Clonar o repositório:
+   
+bash
+   git clone https://github.com/inf24tig07-trabalho-final/trabalho-final.git#### ✔️ Instalação no Netlify (Publicação Automática) 
+
+1. Cria uma conta gratuita em [https://www.netlify.com](https://www.netlify.com)
+
+2. Liga a tua conta do Netlify ao GitHub.
+
+3. Escolhe o repositório `inf24tig07-trabalho-final/trabalho-final`.
+
+4. Configura a publicação automática com os seguintes parâmetros:
+
+   - **Build command**: *(deixar vazio – o projeto é estático)*
+   - **Publish directory**: `/`
+
+5. Clica em **Deploy**.
+
+6. Após a publicação, copia o link gerado para acesso público ao site.
+
+---
+
+### 🔐 Regras de Utilização
+
+- O site é **público** e **gratuito**.
+- Não exige qualquer tipo de login ou autenticação.
+- Não recolhe nem guarda dados pessoais dos utilizadores.
+
+---
+
+### 🧭 Ajuda à Navegação
+
+- A navegação é feita através de um **menu lateral fixo**, disponível em todas as páginas.
+- Os seguintes itens estão sempre acessíveis:
+  - Página Principal
+  - Métodos de Estudo
+  - Recursos de Estudo
+  - Contactos
+  - Ensino
+
+#### Elementos visuais de apoio incluídos:
+
+- Tooltips nos botões e ícones.
+- Cores diferenciadas por tipo de conteúdo (ex: azul para passos, creme para métodos).
+- Estrutura clara com títulos, listas e tabelas organizadas.
+- Secção ativa destacada no menu.
+
+---
+
+### ✅ Validações de Formulários
+
+O formulário de contacto inclui:
+
+- Campo de texto para **Nome**
+- Campo de **Email** (com validação automática do tipo email)
+- Caixa de seleção de **métodos preferidos**
+- Área de texto limitada a **200 palavras**, com **contador dinâmico**
+- Botões de **"Enviar"** e **"Descarregar fórmulas úteis"**
+
+Validações JavaScript implementadas:
+
+- Verificação de campos obrigatórios preenchidos
+- Validação do formato de email
+- Contador e limite de palavras para a textarea
+
+---
+
+### 🔎 Validação do HTML e CSS
+
+#### Ferramentas utilizadas:
+
+- [HTML Validator – W3C](https://validator.w3.org)
+- [CSS Validator – W3C](https://jigsaw.w3.org/css-validator)
+
+#### Resultados:
+
+- Todos os ficheiros HTML e CSS foram validados com sucesso, **sem erros**.
+- Foram corrigidos pequenos *warnings* relacionados com boas práticas semânticas.
+
+#### Capturas de ecrã da validação HTML:
+
+- ![Validação Contacto](imagensrelatorio/contactovalidacao.png)
+- ![Validação Ensino](imagensrelatorio/ensinovalidacao.png)
+- ![Validação Index](imagensrelatorio/indexvalidacao.png)
+- ![Validação Métodos](imagensrelatorio/metodosvalidacao.png)
+- ![Validação Recursos](imagensrelatorio/recursosvalidacao.png)
+
+---
+
+### ⚙️ Detalhes de Implementação
+
+O site cumpre todos os requisitos mínimos do enunciado. Cada página foi desenvolvida com:
+
+- Estrutura semântica **HTML**
+- Estilos externos **CSS** organizados e reutilizáveis
+- Scripts em **JavaScript** para interatividade
+- **Design responsivo** e compatível com diferentes ecrãs
+- Conteúdo separado em **secções bem definidas**
+- Foco na **legibilidade e usabilidade**
+- Publicação online realizada com sucesso através da integração **GitHub + Netlify** eu quero que mudes o nome para  inf24tig07-trabalho final e o nome para  inf24tig07-trabalho-final / 
+trabalho-final
