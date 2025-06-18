@@ -1,7 +1,34 @@
 # Relatório Técnico – Métodos de Estudo Eficazes
+**Curso:** Informática 
+**Unidade Curricular:** Tecnologias da Internet 
+**Docente:** Marco Amaro Oliveira 
+**Grupo:** inf24tig07-trabalho-final  
+**Elementos do Grupo:** Daniel Pires, Helder Milagre
+**Ano Letivo:** 2024/2025  
+**Escola:** Universidade da Maia
 
 **Grupo:** `inf24tig07-trabalho-final`  
 **Repositório GitHub:** [https://github.com/inf24tig07-trabalho-final/trabalho-final](https://github.com/inf24tig07-trabalho-final/trabalho-final)
+
+---
+
+Índice
+
+1. [Apresentação do Projeto](#1-apresentação-do-projeto)  
+2. [Interface com o Utilizador](#2-interface-com-o-utilizador)  
+   - [Sitemap](#sitemap)  
+   - [Wireframes](#wireframes)  
+   - [Comparação com o Resultado Final](#comparação-com-o-resultado-final)  
+3. [Produto](#3-produto)  
+   - [Descrição do Produto](#descrição-do-produto)  
+   - [Link para o Site](#link-para-o-site)  
+   - [Instruções de Instalação](#instruções-de-instalação)  
+   - [Regras de Utilização](#🔐-regras-de-utilização)  
+   - [Ajuda à Navegação](#🧭-ajuda-à-navegação)  
+   - [Validações de Formulários](#✅-validações-de-formulários)  
+   - [Validação do HTML e CSS](#🔎-validação-do-html-e-css)  
+   - [Detalhes de Implementação](#⚙️-detalhes-de-implementação)  
+4. [Apresentação](#4-presentation--apresentação)
 
 ---
 
