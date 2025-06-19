@@ -146,7 +146,7 @@ bash
 
 ---
 
-### 🔐 Regras de Utilização
+#### Regras de Utilização
 
 - O site é **público** e **gratuito**.
 - Não exige qualquer tipo de login ou autenticação.
@@ -154,7 +154,7 @@ bash
 
 ---
 
-### 🧭 Ajuda à Navegação
+#### Ajuda a navegação
 
 - A navegação é feita através de um **menu lateral fixo**, disponível em todas as páginas.
 - Os seguintes itens estão sempre acessíveis:
@@ -173,7 +173,7 @@ bash
 
 ---
 
-### ✅ Validações de Formulários
+### Validações dos Formulários
 
 O formulário de contacto inclui:
 
@@ -191,14 +191,14 @@ Validações JavaScript implementadas:
 
 ---
 
-### 🔎 Validação do HTML e CSS
+### Validação HTML E CSS
 
 #### Ferramentas utilizadas:
 
 - [HTML Validator – W3C](https://validator.w3.org)
 - [CSS Validator – W3C](https://jigsaw.w3.org/css-validator)
 
-#### Resultados:
+#### Resultados
 
 - Todos os ficheiros HTML e CSS foram validados com sucesso, **sem erros**.
 - Foram corrigidos pequenos *warnings* relacionados com boas práticas semânticas.
@@ -213,7 +213,7 @@ Validações JavaScript implementadas:
 
 ---
 
-### ⚙️ Detalhes de Implementação
+#### Detalhes de Implementação
 
 O site cumpre todos os requisitos mínimos do enunciado. Cada página foi desenvolvida com:
 
