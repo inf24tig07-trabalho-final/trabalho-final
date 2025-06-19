@@ -225,3 +225,9 @@ O site cumpre todos os requisitos mínimos do enunciado. Cada página foi desenv
 - Foco na **legibilidade e usabilidade**
 - Publicação online realizada com sucesso através da integração **GitHub + Netlify** eu quero que mudes o nome para  inf24tig07-trabalho final e o nome para  inf24tig07-trabalho-final / 
 trabalho-final
+
+
+---
+
+##4-presentation--apresentação
+[Apresentação Final (PowerPoint)](apresentacao/Apresentacao_Final_Com_Validacao.pptx)
