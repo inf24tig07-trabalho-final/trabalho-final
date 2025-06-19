@@ -230,4 +230,4 @@ trabalho-final
 ---
 
 ## 4. Apresentação 
-[Apresentação Final (PowerPoint)](apresentacao/Apresentacao_Final_Com_Validacao.pptx)
+[Apresentação Final (PowerPoint)](apresentacao/Apresentacao_Final.pptx)
