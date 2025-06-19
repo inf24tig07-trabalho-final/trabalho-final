@@ -23,12 +23,12 @@
    - [Descrição do Produto](#descrição-do-produto)  
    - [Link para o Site](#link-para-o-site)  
    - [Instruções de Instalação](#instruções-de-instalação)  
-   - [Regras de Utilização](#🔐-regras-de-utilização)  
-   - [Ajuda à Navegação](#🧭-ajuda-à-navegação)  
-   - [Validações de Formulários](#✅-validações-de-formulários)  
-   - [Validação do HTML e CSS](#🔎-validação-do-html-e-css)  
-   - [Detalhes de Implementação](#⚙️-detalhes-de-implementação)  
-4. [Apresentação](#4-presentation--apresentação)
+   - [Regras de Utilização](#regras-de-utilização)  
+   - [Ajuda à Navegação](#ajuda-à-navegação)  
+   - [Validações de Formulários](#validações-de-formulários)  
+   - [Validação do HTML e CSS](#validação-do-html-e-css)  
+   - [Detalhes de Implementação](#detalhes-de-implementação)  
+4. [Apresentação](#4-apresentação)
 
 ---
 
@@ -229,5 +229,5 @@ trabalho-final
 
 ---
 
-##4-presentation--apresentação
+## 4-presentation--apresentação
 [Apresentação Final (PowerPoint)](apresentacao/Apresentacao_Final_Com_Validacao.pptx)
