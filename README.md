@@ -73,7 +73,7 @@ O projeto respeitou os princípios da web estática, sem recurso a servidores ou
 
 Este wireframe representa a estrutura da página inicial do website. O objetivo é apresentar o tema principal do projeto (“Ensino”) de forma clara e apelativa, orientando o utilizador para os restantes conteúdos através de um menu de navegação e destaques visuais. Inclui um cabeçalho com logótipo, secção introdutória e ligações rápidas para as restantes páginas.
 
-![Wireframe Página Inicial](imagensrelatorio/index.html.png)
+![Wireframe Página Inicial](imagensrelatorio/index.png)
 
 ---
 
