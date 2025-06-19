@@ -110,7 +110,7 @@ Este wireframe corresponde à página onde são apresentadas curiosidades e fact
 ---
 
 
-## 3. Product – Produto
+## 3. Produto
 
 ### Descrição do Produto
 
@@ -229,5 +229,5 @@ trabalho-final
 
 ---
 
-## 4-presentation--apresentação
+## 4. Apresentação 
 [Apresentação Final (PowerPoint)](apresentacao/Apresentacao_Final_Com_Validacao.pptx)
