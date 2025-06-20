@@ -24,10 +24,10 @@
    - [Link para o Site](#link-para-o-site)  
    - [Instruções de Instalação](#instruções-de-instalação)  
    - [Regras de Utilização](#regras-de-utilização)  
-   - [Ajuda à Navegação](#ajuda-à-navegação)  
+   - [Ajuda à Navegação](#Ajuda-a-navegação)  
    - [Validações de Formulários](#validações-de-formulários)  
-   - [Validação do HTML e CSS](#validação-do-html-e-css)  
-   - [Detalhes de Implementação](#detalhes-de-implementação)  
+   - [Validação do HTML e CSS](#Validações-dos-Formulários)  
+   - [Detalhes de Implementação](#Detalhes-de-Implementação)  
 4. [Apresentação](#4-apresentação)
 
 ---
