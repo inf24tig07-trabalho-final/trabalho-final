@@ -18,7 +18,7 @@
 2. [Interface com o Utilizador](#2-interface-com-o-utilizador)  
    - [Sitemap](#sitemap)  
    - [Wireframes](#wireframes)  
-   - [Comparação com o Resultado Final](#comparação-com-o-resultado-final)  
+   - [Comparação com o Resultado Final](#Comparação-entre-o-Estudo-Inicial-e-o-Produto-Final)  
 3. [Produto](#3-produto)  
    - [Descrição do Produto](#descrição-do-produto)  
    - [Link para o Site](#link-para-o-site)  
