@@ -25,8 +25,8 @@
    - [Instruções de Instalação](#instruções-de-instalação)  
    - [Regras de Utilização](#regras-de-utilização)  
    - [Ajuda à Navegação](#Ajuda-a-navegação)  
-   - [Validações de Formulários](#validações-de-formulários)  
-   - [Validação do HTML e CSS](#Validações-dos-Formulários)  
+   - [Validações de Formulários](#Validações-dos-Formulários)  
+   - [Validação do HTML e CSS](#Validação-HTML-E-CSS)  
    - [Detalhes de Implementação](#Detalhes-de-Implementação)  
 4. [Apresentação](#4-apresentação)
 
@@ -184,11 +184,9 @@ bash
   - Ensino
 
 #### Elementos visuais de apoio incluídos:
-
-- Tooltips nos botões e ícones.
 - Cores diferenciadas por tipo de conteúdo (ex: azul para passos, creme para métodos).
 - Estrutura clara com títulos, listas e tabelas organizadas.
-- Secção ativa destacada no menu.
+
 
 ---
 
