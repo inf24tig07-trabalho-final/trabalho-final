@@ -108,6 +108,25 @@ Este wireframe corresponde à página onde são apresentadas curiosidades e fact
 ![Wireframe Curiosidades sobre o Ensino](imagensrelatorio/Ensino.png)
 
 ---
+### Comparação entre o Estudo Inicial e o Produto Final.
+
+Todos os wireframes desenvolvidos foram respeitados na implementação do website. As páginas finais correspondem integralmente à estrutura prevista, tanto a nível de conteúdo como de organização visual.
+
+| Página                | Cumprimento do Planeamento | Observações                                                                 |
+|----------------------|-----------------------------|------------------------------------------------------------------------------|
+| Página Inicial       | ✅ Sim                      | Seguiu exatamente o layout com introdução, métodos usados e passos para estudar bem. |
+| Métodos de Estudo    | ✅ Sim                      | A tabela comparativa foi fiel ao wireframe com as 5 colunas.                |
+| Recursos de Estudo   | ✅ Sim                      | A divisão por secções (recursos, vídeo, definições, XML) foi mantida.       |
+| Contacto             | ✅ Sim                      | Todos os elementos do formulário e botões foram incluídos como planeado.    |
+| Curiosidades/Ensino  | ⚠️ Parcialmente             | A estrutura visual está conforme o wireframe, mas os países apresentados diferem dos inicialmente planeados. |
+| Menu de Navegação    | ✅ Sim                      | Consistência assegurada em todas as páginas.                                |
+
+A navegação é intuitiva e coerente em todas as páginas, e os estilos aplicados garantem uma experiência de utilizador semelhante à que foi desenhada na fase de prototipagem.
+
+Além disso, o sitemap manteve-se inalterado, confirmando que o produto final respeitou a hierarquia e o planeamento inicial do projeto.
+
+
+---
 
 
 ## 3. Produto
