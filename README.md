@@ -137,7 +137,7 @@ O site apresenta diversas técnicas de estudo com explicações visuais, imagens
 
 ### Link para o Site
 
-🔗 [Acede aqui ao site publicado no Netlify]([https://inf24tig07.netlify.app)
+🔗 [Acede aqui ao site publicado no Netlify](https://inf24tig07.netlify.app)
 
 ### Instruções de Instalação
 
